@@ -23,7 +23,7 @@ PI-SIGHT Helmet HUD는 헬멧 외부에 장착하여 사용자의 눈앞에 필�
 
 ## 제작 방법
 
- - 업로드 예정
+ - [제작 영상](https://youtu.be/Ew3B-dukdHQ?si=9M7wGLM0dlpmkkXc)과 [회로도](https://github.com/younsj97/PI-SIGHT_Helmet_HUD/blob/main/Documents/Circuits.pdf)를 참고하세요.
 
 
 ## 주의사항
